@@ -10,8 +10,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "EDComponentsBinary",
-      url: "https://raw.githubusercontent.com/tc2247/EDComponents-Releases/v0.0.2/v0.0.2/EDComponents.xcframework.zip",
-      checksum: "2b13e9cf3c796b748a22147d11bcfc384d62133ce8fcbf62ed050aec09b2b290"
+      url: "https://raw.githubusercontent.com/tc2247/EDComponents-Releases/v0.0.3/v0.0.3/EDComponents.xcframework.zip",
+      checksum: "b3ae91fe5708e35292fe2fc23c617875a5af9dc06ceaeef0282b91eaee5baa1b"
     )
   ]
 )
